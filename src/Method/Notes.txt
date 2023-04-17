@@ -1,0 +1,5 @@
+Method
+1. Selain Menambahkan Field, kita juga bisa menambahkan method ke object.
+2. Cara dengan mendeklarasikan method tersebut di dalam block class.
+3. Sama seperti method biasanya, kita juga bisa menamahkan return value, parameter dan method overloading di method yang ada dalam block class.
+4. Untuk Mengakses Method tersebut, kita bisa menggunakan tanda titik (.) dan diikuti dengan nama method nya. Sama seperti mengakses field.

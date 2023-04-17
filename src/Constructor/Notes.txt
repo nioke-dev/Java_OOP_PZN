@@ -1,0 +1,5 @@
+Constructor
+1. Saat kita membuat object, maka kita seperti memanggil sebuah method, karena kita mneggunakan kurung ()
+2. di dalam class java, kita bisa membuat constructor, constructor adalah method yang akan dipanggil saat pertama kali object dibuat.
+3. Mirip seperti method, kita bisa memberi parameter pada constructor.
+4. nama constructor harus sama dengan nama class, dan tidak membutuhkan kata kunci void atau return value.
