@@ -1,3 +1,5 @@
 Constructor overloading
 1. Sama Seperti di method, di constructor pun kita bisa melakukan overloading
 2. kita bisa membuat constructor lebih dari satu, dengan syarat tipe data parameter harus berbeda, atau jumlah parameter harus berbeda.
+
+Memanggil Constructor lain

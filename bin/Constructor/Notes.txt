@@ -3,3 +3,8 @@ Constructor
 2. di dalam class java, kita bisa membuat constructor, constructor adalah method yang akan dipanggil saat pertama kali object dibuat.
 3. Mirip seperti method, kita bisa memberi parameter pada constructor.
 4. nama constructor harus sama dengan nama class, dan tidak membutuhkan kata kunci void atau return value.
+
+Memanggil Constructor lain
+1. Constructor bisa memanggil constructor lain
+2. Hal ini memudahkan saat kita butuh menginisialisasi data dengan berbagai kemungkinan.
+3. Cara untuk memanggil constructor lain, kita hanya perlu memanggil method, namun dengan kata kunci this.

@@ -10,10 +10,11 @@ public class PersonApp {
 
         person1.SayHello("Budi");
 
-        Person person2 = new Person("budi", "Jakarta");
+        Person person2 = new Person("budi");
 
         Person person3;
-        person3 = new Person("Joko", "Cirebon");
+        person3 = new Person();
+        person3.name = "Joko";
         person3.SayHello("Budi");
 
     }

@@ -15,5 +15,6 @@ public class PersonApp {
         Person person3;
         person3 = new Person("Joko", "Cirebon");
         person3.SayHello("Budi");
+
     }
 }
