@@ -1,0 +1,6 @@
+Inheritance
+1. inheritence atau pewarisan adalah kemampuan untuk menurunkan sebuah class ke class lain.
+2. Dalam Artian, kita bisa membuat class Parent dan class Child.
+3. class Child, hanya bisa punya satu class parent, namun satu class parent bisa punya banyak class child.
+4. saat sebuah class diturunkan, maka semua field da method yang ada di class parent, secara otomatis akan dimiliki oleh class child.
+5. Untuk melakukan pewarisan, di class child kita harus menggunakan kata kunci extends lalu diikuti dengan nama class parent nya.
