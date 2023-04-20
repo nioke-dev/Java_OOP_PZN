@@ -5,8 +5,8 @@ public class Person {
     String address;
 
     Person(String name, String address) {
-        name = name; // field nama tidak berubah
-        address = address; // field address tidak berubah
+        // name = name; // field nama tidak berubah
+        // address = address; // field address tidak berubah
     }
 
     void sayHello(String name) {
