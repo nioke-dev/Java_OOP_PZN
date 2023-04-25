@@ -1,0 +1,3 @@
+Method Overriding
+1. Method Overriding adalah kemampuan mendeklarasikan ulang method di child class, yang sudah ada di parent class.
+2. saat kita melakukan proses Overriding tersebut, secara otomatis ketika kita membuat object dari class child, method yang di class parent tidak bisa diakses lagi
